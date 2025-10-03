@@ -49,8 +49,7 @@ It ensures **transparency, expectation management, and trust** across all roles.
 ### 4. Feedback to Clinicians
 - If a request **cannot be implemented**, clinicians receive a **simplified explanation**:  
   - *“We cannot combine ‘save’ and ‘upload’ into one button, because the system must validate data first. Instead, we will make validation run in the background, so it feels faster.”*  
-- Always provide an **alternative or compromise**.  
-
+- Always provide an **alternative or compromise**.
 ---
 
 ### 5. Communication & Transparency
@@ -65,10 +64,14 @@ It ensures **transparency, expectation management, and trust** across all roles.
 ---
 
 ## 📂 Repository Structure
-- `/feedback-log/` → Markdown files with collected requests and status.  
+- `/feedback-log/` → Markdown files with collected requests and status.
 - `/user-stories/` → Translated clinician requests in developer‑friendly format.  
 - `/explanations/` → Simplified explanations for clinicians when requests are not feasible.  
 - `README.md` → Overview of the collaboration process (this file).  
+
+### Example Feedback Log
+See [Wish to only click once when saving a file](feedback-log/2025-01-15-save-case-one-click.md)  
+This file shows how a clinician request is documented, translated into a user story, analysed by developers, and communicated back to clinicians with a simplified explanation.
 
 ---
 
